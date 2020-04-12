@@ -1,0 +1,1 @@
+这个是抽离出了css之类的文件,base版本是把它统一放在module.rules里
